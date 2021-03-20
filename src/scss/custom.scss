@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Love+Ya+Like+A+Sister&display=swap');
+
 $primary: #7a44ff;
 $light: #eef;
 $font-family-base: 'Love Ya Like A Sister', cursive;
@@ -8,7 +10,6 @@ $enable-rounded: false;
 $card-border-color: $primary;
 
 @import "../../node_modules/bootstrap/scss/bootstrap";
-@import url('https://fonts.googleapis.com/css2?family=Love+Ya+Like+A+Sister&display=swap');
 
 .hero {
   width: 100%;
