@@ -1,9 +1,9 @@
 {
-  "name": "",
+  "name": "uib_framework_bootstrap_benny-s-burgers-KaiAtDCI",
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
-  "author": "",
+  "author": "Kai Grube",
   "scripts": {
     "start": "run-p watch watch:styles",
     "build": "run-s clean clean:styles build:styles copy",
